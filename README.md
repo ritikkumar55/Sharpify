@@ -35,5 +35,5 @@ An AI-powered web application that enhances uploaded images using an external im
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/yourusername/ai-image-enhancer.git
-   cd ai-image-enhancer
+   git clone https://github.com/ritikkumar55/Sharpify/tree/master
+   cd Sharpify
