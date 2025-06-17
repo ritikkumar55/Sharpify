@@ -25,9 +25,7 @@ An AI-powered web application that enhances uploaded images using an external im
 
 ## 📸 Screenshots
 
-| Upload Image | Enhanced Output |
-|--------------|-----------------|
-| ![upload](./screenshots/upload.png) | ![enhanced](./screenshots/enhanced.png) |
+| ![upload](https://github.com/ritikkumar55/Sharpify/blob/master/Screenshot%20(156).png) 
 
 ---
 
