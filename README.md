@@ -1,12 +1,39 @@
-# React + Vite
+# 🖼️ AI Image Enhancer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An AI-powered web application that enhances uploaded images using an external image processing API. Built with **React.js** and deployed with **Vercel**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔍 Features
 
-## Expanding the ESLint configuration
+- 📤 Upload any image (JPG/PNG)
+- 🚀 Sends it to an AI-based enhancement API
+- ⏳ Shows loading animation during enhancement
+- 🌟 Displays enhanced image in preview
+- 📥 Download button for saving the enhanced result
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React.js + TailwindCSS
+- **API**: Picwish API
+- **Deployment**: Vercel
+- **Utilities**: Axios, FileReader, useState/useEffect
+
+---
+
+## 📸 Screenshots
+
+| Upload Image | Enhanced Output |
+|--------------|-----------------|
+| ![upload](./screenshots/upload.png) | ![enhanced](./screenshots/enhanced.png) |
+
+---
+
+## 🚀 Getting Started (Local Setup)
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/yourusername/ai-image-enhancer.git
+   cd ai-image-enhancer
